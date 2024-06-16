@@ -1,7 +1,8 @@
-* Quines in C
+# Quines in C
 
-`quine1.c` is a sample impelemntation of a Quine program in C. `quine2.c`, and 
-`quine3.c` are different variants of it.
+`quine1.c` is a sample implementation of a [Quine](https://en.wikipedia.org/wiki/Quine_(computing)) program in C, 
+which is a computer program that takes no input and produces a copy of its own source code as its only output.
+`quine2.c`, and `quine3.c` are different variants of it.
 
 `quine4.c` is a quine implementation that "clones" itself (makes a replica with
 an altered filename). E.g. `"./quine"` will lead to both `quine` and `rvjof` in
