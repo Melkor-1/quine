@@ -13,5 +13,3 @@ the second time, it forks a child process and executes all the cloned
 programs, which in turn fork new processes and clone themselves further.
 
 The program acts akin to a fork bomb, but is special in that it is a quine.
-
-`quine5.c` is the same program, but is a shorter version of it.
